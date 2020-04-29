@@ -1,6 +1,6 @@
 # React_Meme_Generator.js
 
---------------------- tasks ---------------------------------------------
+#tasks 
 index.js
 Create the boilerplate to get React to render something on the screen
 Render an <App /> component, which you'll need to create separately
